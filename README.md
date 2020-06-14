@@ -1,2 +1,1 @@
-# albumin_and_ca
-Albumin Level at Admission to ICU is Related to Prognosis in Cardiac Arrest Patients
+# Mean corpuscular hemoglobin concentration level at admission to intensive care unit is associated with prognosis in cardiac arrest patients
